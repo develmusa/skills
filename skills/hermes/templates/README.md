@@ -53,7 +53,7 @@ To produce a deliverable, open the matching template here and consult [../refere
 - [Study](study.md)
 - [System concept](system-concept.md)
 - [Tender documentation](tender-documentation.md)
-- [Appendices Project name](tender-report.md)
+- [Tender report](tender-report.md)
 - [Test concept](test-concept.md)
 - [Test report](test-report.md)
 - [User manual](user-manual.md)

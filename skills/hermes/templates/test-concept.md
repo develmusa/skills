@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/2/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -27,7 +27,6 @@ Project name / Project number
 ### Aim and purpose of the document
 
 The test concept describes the test objectives, test objects, test types, test infrastructure, and test organization. It also includes test planning and test case descriptions. A detailed test case description is created for each test case. This constitutes the test specifications. Test planning determines the logical and chronological structure of the tests. The test concept forms the basis on which the test organization and test infrastructure are provided and the tests conducted. The test concept is updated if new findings arise.
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 
@@ -189,8 +188,8 @@ If, instead, category 4 defects are found, the system/product cannot be accepted
 | No. | Activity | Responsible | Participants | Deadline |
 | --- | --- | --- | --- | --- |
 | 01 | ... |   |   |   |
-| 01 | Entering new master data | Hans Meier | Urs Klein | 12.02.2022 |
-| 02 | Delete master data | Bea Keller | Erich Gross | 12.03.2022 |
+| 01 | Entering new master data | Hans Meier | Urs Klein | dd.mm.yyyy |
+| 02 | Delete master data | Bea Keller | Erich Gross | dd.mm.yyyy |
 | ... |   |   |   |   |
 
 ## Test organization and responsibilities

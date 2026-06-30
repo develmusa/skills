@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -27,12 +27,10 @@ Project name / Project number
 ### Aim and purpose of the document
 > _The organizational requirements define whether a new or updated business model is needed or whether the organizational and process structure is changing. They include those contextual, business, and organizational requirements that strengthen the internal organization within the framework of the future solution and enable the solution itself to be more effective._
 > _In addition to the traditional aspects specific to the organizational and process structure, they also include the requirements on economic efficiency, effectiveness, and efficiency as well as the objectives of the core organization and the organizational strategy derived from the objectives, often manifested in a business model that defines the framework into which the new organization must be fitted._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 [ ... ]
 > _The organizational requirements define whether a new or updated business model is needed or whether the organizational and process structure is changing. They include those contextual, business, and organizational requirements that strengthen the internal organization within the framework of the future solution and enable the solution itself to be more effective._
 > _In addition to the traditional aspects specific to the organizational and process structure, they also include the requirements on economic efficiency, effectiveness, and efficiency as well as the objectives of the core organization and the organizational strategy derived from the objectives, often manifested in a business model that defines the framework into which the new organization must be fitted._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

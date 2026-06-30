@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/2/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |

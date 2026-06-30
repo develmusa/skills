@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -26,11 +26,9 @@ Project name / Project number
 
 ### Aim and purpose of the document
 > _Product documentation refers to the technical documentation of the product. All of the documentation defined in the development process together forms the product documentation. It is a prerequisite for the maintenance and further development of the product._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 [ ... ]
 > _Product documentation refers to the technical documentation of the product. All of the documentation defined in the development process together forms the product documentation. It is a prerequisite for the maintenance and further development of the product._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

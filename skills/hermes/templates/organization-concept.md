@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -27,7 +27,6 @@ Project name / Project number
 ### Aim and purpose of the document
 
 The organization concept goes into more depth about the solution variant described and selected in the study from an organizational perspective. It is based on the organizational requirements, supplemented where needed by the findings from the solution requirements, and it describes the relevant business model aspects as well as the organizational and process structure (business processes) for business processing and support. It shows which new organization is created and which changes are made to what already exists.
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

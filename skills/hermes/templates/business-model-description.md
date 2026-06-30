@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -27,7 +27,6 @@ Project name / Project number
 ### Aim and purpose of the document
 
 The business model description includes all organizational aspects that are relevant for the solution and that can be influenced by the solution, and it provides the framework for the process structure and organizational structure. It is based on the elements of the business model of an organization, reinforces the holistic view of the organization, and encompasses a selection of components such as customer segmentation and customer relationships.
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

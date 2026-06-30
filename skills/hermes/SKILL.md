@@ -1,7 +1,7 @@
 ---
 name: hermes
 version: 2022.3.0
-description: Apply the HERMES project management method (the project and program management standard of the Swiss Confederation, HERMES 2022) to plan and run a project end to end. Choose the right scenario, size and tailor the method, structure the five traditional or three agile phases with milestone quality gates, assign the steering, management, and execution roles, run the tasks, and produce the required deliverables from ready templates. Use when the user mentions HERMES, runs a Swiss public-sector or IT, organization, product, or service project, or asks about scenarios, sizing and tailoring, phases and milestones, project roles, deliverables, checklists, or HERMES document templates such as the study, project management plan, execution order, or test concept.
+description: Apply the HERMES 2022 project management method (the Swiss Confederation standard) to plan and run a project end to end. Use when the user mentions HERMES, runs a Swiss public-sector or IT/organizational project, or asks about a HERMES scenario, phase, milestone, role, deliverable, or template.
 metadata:
   hermes_edition: "2022 edition / 3rd printing (revised), 09.03.2026"
   source: "Federal Chancellery FCh, Digital Transformation and ICT Steering DTI"
@@ -14,13 +14,6 @@ metadata:
 HERMES is the outcome-oriented project and program management method of the Swiss Confederation (HERMES 2022). It gives every project the same backbone: phases bounded by milestone quality gates, built from reusable modules, packaged into scenarios, scaled by sizing and tailoring, staffed by three role levels, and driven toward defined deliverables (called outcomes).
 
 This skill lets you set up a HERMES project, decide the approach, plan the phases and roles, and generate the required documents. It carries the full method as reference files plus a markdown template for every deliverable and checklist.
-
-## When to use
-
-- The user names HERMES, or runs a Swiss federal, cantonal, or public-sector project.
-- The user needs to structure a project: pick a scenario, size and tailor it, plan phases and milestones, assign roles, or set up governance.
-- The user asks what a HERMES role, task, milestone, module, or deliverable is.
-- The user wants to draft a HERMES document (study, project management plan, execution order, deployment concept, test concept, a checklist, and so on).
 
 For anything beyond the summaries below, open the matching reference file. Do not guess HERMES specifics: the catalogs are exhaustive, so look them up.
 
@@ -59,7 +52,7 @@ Open these on demand; each is an exhaustive catalog.
 - [references/tasks.md](references/tasks.md): every task by module, with phase, responsible role, involved roles, outcomes, and purpose.
 - [references/deliverables.md](references/deliverables.md): every document and checklist with its purpose and contents.
 - [references/governance-and-agile.md](references/governance-and-agile.md): project governance, change control, rolling-wave planning, implementation units, agile development management, reporting, and program management.
-- [references/hermes-2022-reference-manual.md](references/hermes-2022-reference-manual.md): the full official reference manual (HERMES 2022 edition, 3rd printing revised, 09.03.2026), for anything not covered by the distilled files above.
+- [references/hermes-2022-reference-manual.md](references/hermes-2022-reference-manual.md): the full official reference manual (HERMES 2022 edition, 3rd printing revised, 09.03.2026). The only source for sustainability, financial steering and funding, integrating HERMES into the core organization, and combining HERMES with other methods; also the fallback for anything not covered by the distilled files above.
 
 ## Templates
 

@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -27,7 +27,6 @@ Project name / Project number
 ### Aim and purpose of the document
 
 The user manual contains all the information that the user of a product/system needs to use it properly and to be able to react correctly in the event of problems.
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

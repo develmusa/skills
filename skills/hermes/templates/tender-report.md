@@ -1,8 +1,6 @@
-# Appendices Project name
+# Tender report
 
 > Official HERMES template, converted to markdown. Lines in quote blocks are the original fill-in guidance. Replace every [ ... ] placeholder; delete guidance and unused rows before use.
-
-Offer report
 
 Project name
 
@@ -22,13 +20,7 @@ Project name
 | --- | --- | --- | --- |
 | 0.1 |   |   |   |
 
-| Field | Entry |
-| --- | --- |
-| Table 1: | Change control |
-
-In the case of public procurement, the minutes on the opening of tenders are recorded after the submission deadline. On a case-by-case basis, all points relevant to procurement law and procurement evaluation are also recorded in the offer report.
-
-Italic text in the document: Information on use or examples - to be adapted or deleted accordingly.
+In the case of public procurement, the minutes on the opening of tenders are recorded after the submission deadline. On a case-by-case basis, all points relevant to procurement law and procurement evaluation are also recorded in the tender report.
 
 ## Procurement item
 
@@ -50,12 +42,8 @@ Text: description of the facts
 
 | Deadline | Agenda items | Description |
 | --- | --- | --- |
-| 12.06.2022 | Opening of documents | Opening of documents in the presence of... |
-| 15.07.2022 |   |   |
-
-| Field | Entry |
-| --- | --- |
-| Table 2: | Agenda items |
+| dd.mm.yyyy | Opening of documents | Opening of documents in the presence of... |
+| dd.mm.yyyy |   |   |
 
 ## To-do list (appendix)
 
@@ -65,5 +53,5 @@ Text
 
 | No. | Description | Date | Resp. | Deadline | Completed |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Clarify ambiguities with regard to... | 17.07.2022 | F. Graber | 30.07.2022 | 30.07.2022 |
+| 1 | Clarify ambiguities with regard to... | dd.mm.yyyy | F. Graber | dd.mm.yyyy | dd.mm.yyyy |
 | 2 |   |   |   |   |   |

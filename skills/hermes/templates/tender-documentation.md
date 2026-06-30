@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -27,12 +27,10 @@ Project name / Project number
 ### Aim and purpose of the document
 > _The tender documentation includes all information published in the context of a call for tender. This includes first and foremost the Specifications, together with the catalog of criteria, which is an indispensable part of the tender documentation. The procurement office often has organization-specific tender documentation that should be prioritized._
 > _The tender documentation additionally includes a draft contract, general terms and conditions of the core organization, the tender notice, and further enclosures to the Specifications. If questions are answered in a public tender, the questions and answers are likewise part of the tender documentation and are given to all tenderers._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 [ ... ]
 > _The tender documentation includes all information published in the context of a call for tender. This includes first and foremost the Specifications, together with the catalog of criteria, which is an indispensable part of the tender documentation. The procurement office often has organization-specific tender documentation that should be prioritized._
 > _The tender documentation additionally includes a draft contract, general terms and conditions of the core organization, the tender notice, and further enclosures to the Specifications. If questions are answered in a public tender, the questions and answers are likewise part of the tender documentation and are given to all tenderers._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

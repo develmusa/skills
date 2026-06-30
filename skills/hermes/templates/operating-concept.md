@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -27,7 +27,6 @@ Project name / Project number
 ### Aim and purpose of the document
 
 The operating concept describes the operating organization with the organizational structure and operating processes of the operator. The operating concept forms the basis for creating the operating manual and the organization of the operator.
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

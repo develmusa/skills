@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/2/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -26,11 +26,9 @@ Project name / Project number
 
 ### Aim and purpose of the document
 > _The system concept goes into more depth about the solution variant described and selected in the study. It is based on the solution requirements and shows how the solution meets those requirements. The system concept can describe and evaluate several system variants. There can be several system concepts on different topics._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 [ ... ]
 > _The system concept goes into more depth about the solution variant described and selected in the study. It is based on the solution requirements and shows how the solution meets those requirements. The system concept can describe and evaluate several system variants. There can be several system concepts on different topics._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

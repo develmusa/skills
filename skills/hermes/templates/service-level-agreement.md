@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/2/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -29,7 +29,6 @@ Project name / Project number
 A service level agreement (SLA) is a contractual agreement between the operator and the user, represented by the project sponsor and the user representative. The SLA specifies the services to be provided by the operator, defines their service level (quality of service), and formulates any measures and penalties for non-compliance. The agreed services and their service levels are generally subject to a charge.
 
 If operations are outsourced, SLAs can be an important factor in evaluating the potential operator.
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

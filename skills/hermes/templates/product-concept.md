@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -26,11 +26,9 @@ Project name / Project number
 
 ### Aim and purpose of the document
 > _The product concept goes into more depth about the solution variant described and selected in the study. It is based on the solution requirements, supplemented where needed by the findings from the organizational requirements, and it describes the product to be created. Depending on the product and the complexity of the solution requirements, its structure and level of detail vary._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 [ ... ]
 > _The product concept goes into more depth about the solution variant described and selected in the study. It is based on the solution requirements, supplemented where needed by the findings from the organizational requirements, and it describes the product to be created. Depending on the product and the complexity of the solution requirements, its structure and level of detail vary._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

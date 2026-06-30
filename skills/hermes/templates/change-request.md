@@ -1,4 +1,4 @@
-# Change request: "001"
+# Change request
 
 > Official HERMES template, converted to markdown. Lines in quote blocks are the original fill-in guidance. Replace every [ ... ] placeholder; delete guidance and unused rows before use.
 
@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -29,7 +29,6 @@ Project name / Project number
 In traditional solution development, the change request forms the basis for a change in content. It includes the description of the change to be made, as well as the request, the procedure for making the change, and the proposed solution for implementing the change. The change request acts as a requirement to be met and specifies the change to be made in detail.
 
 In the case of agile solution development, the change request comes into play when changes are identified by the execution organization that affect the project objectives, the budget, or the time frame of the overall project.
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

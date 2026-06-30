@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/1/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -26,11 +26,9 @@ Project name / Project number
 
 ### Aim and purpose of the document
 > _The agreement governs the cooperation between different project participants, mainly between the user (project sponsor) and the developer. The agreement can be concluded for one or more phases. Agreements are differentiated according to project agreement and contract._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 [ ... ]
 > _The agreement governs the cooperation between different project participants, mainly between the user (project sponsor) and the developer. The agreement can be concluded for one or more phases. Agreements are differentiated according to project agreement and contract._
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

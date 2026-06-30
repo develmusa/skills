@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/7/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -80,7 +80,7 @@ The acceptance report is created for decisions on preliminary acceptance, accept
 | Meaning | Version no / Designation / Date |
 | --- | --- |
 | ... |   |
-| Contract | 30.03.2022 |
+| Contract | dd.mm.yyyy |
 | ... |   |
 
 ## Acceptance procedure

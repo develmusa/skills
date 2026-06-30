@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -29,7 +29,6 @@ Project name / Project number
 The operating manual provides all the information the operator needs to operate the system properly and to be able to react correctly in the event of problems. All operating information of relevance for the operator is documented in the operating manual.
 
 During agile solution development, the operating manual is updated several times, per iteration/release, as each complete part of the solution is activated.
-> _Italic text in the document: Information on use or examples - to be adapted or deleted accordingly._
 
 ### Referenced documents
 

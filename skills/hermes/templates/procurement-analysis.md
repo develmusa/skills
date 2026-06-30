@@ -6,7 +6,7 @@ Project name / Project number
 
 | Field | Entry |
 | --- | --- |
-| Edit date | 4/5/2026 |
+| Edit date | dd.mm.yyyy |
 | Version | 0.1 |
 | Document status | in progress |
 | Classification | unclassified |
@@ -208,8 +208,8 @@ Selection of tenderer from Chapter 3.1 who are eligible for award.
 | No. | Document | Description |
 | --- | --- | --- |
 | 01 | ... | ... |
-| 02 | Study | RFID warehouse project, study, 10.10.2021 |
-| 03 | Floor plan warehouse | Floor plan warehouse ABC, version 3.5, 01.06.2018 |
+| 02 | Study | RFID warehouse project, study, dd.mm.yyyy |
+| 03 | Floor plan warehouse | Floor plan warehouse ABC, version 3.5, dd.mm.yyyy |
 |   | ... | ... |
 
 ### How are the process steps in procurement designed?
