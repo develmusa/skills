@@ -134,6 +134,19 @@ Execution planning starts with execution structuring. The execution structure pl
 
 In traditional solution development, the execution structure plan is later reviewed and its tasks and outcomes are completed and fleshed out as part of detailed planning before each phase release (rolling planning, from rough to detailed).
 
+## Minimal Preset (Lean Floor)
+
+The minimal preset is sizing and tailoring taken to the floor: the smallest governance-conformant project. Keep only the four mandatory modules (Project steering, Project management, Project foundations, Deployment organization) and, within them, only the minimum required documents. Drop every optional module (Procurement, Organization, Product, IT system, Tests, IT migration, IT operation, ISDP) and every non-mandatory outcome unless the project actually needs it.
+
+Minimum required documents are the governance must-haves: HERMES marks them in the outcomes overview (manual Table 16), their preparation is mandatory, and they drop only when their module is not used. The recognizable core for the four mandatory modules:
+
+- Foundations: study (plus legal basis analysis, protection needs analysis, or procurement analysis only where the project requires them).
+- Management: project management plan, project status report, phase report (release report under agile).
+- Steering: execution order, the decision checklists and milestones for the mandatory gates (project initiation release, next steps, execution release, phase release, closure phase release, project closure), and the list of steering project decisions.
+- Deployment and closure: deployment concept, acceptance report, final project evaluation, lessons learned.
+
+The exact per-outcome marking is governance-defined and adjustable by the core organization; Table 16 is the authority, and its rendering in the reference manual is OCR-damaged, so confirm a precise audit list at https://www.hermes.admin.ch. Combine the minimal preset with the lean profile (see SKILL.md) for the lightest setup: fewest documents, no in-file document control.
+
 ## How to Size and Tailor a Project (Checklist)
 
 1. In the initiation phase, conduct the study (initial status report, objectives, rough requirements, solution options) and define the scope and boundaries for solution development.
