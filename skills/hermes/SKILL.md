@@ -58,6 +58,18 @@ Open these on demand; each is an exhaustive catalog.
 
 [templates/](templates/README.md) holds a markdown template for every HERMES deliverable and checklist (69 in total), converted from the official HERMES 2022 templates. Each keeps the official section structure and fill-in guidance (shown in quote blocks). To produce a document: open its template, replace every `[ ... ]` placeholder, follow the embedded guidance, and delete the guidance and unused rows before delivery. Cross-check the document purpose in [references/deliverables.md](references/deliverables.md) and the producing task in [references/tasks.md](references/tasks.md).
 
+## Lean profile (gitops)
+
+Every template carries HERMES document control: the metadata header (classification, status, version, edit date, author, owning roles) plus the document's change-history table. Formal governance needs it, since the signed document is the unit of record. When deliverables live in git, it is redundant: git already tracks version, author, date, and (via branches and pull requests) status.
+
+The lean profile drops it. To produce a deliverable in lean mode:
+
+- Omit the document-control header and the change-history table.
+- Keep the H1 title, the project identifier line, and every body section and content table of the deliverable itself.
+- Rely on git for versioning, authorship, and status.
+
+Lean output is not valid for formal HERMES submissions (for example Swiss federal compliance); use the default formal profile there. Lean is orthogonal to sizing and tailoring: those decide which documents you produce; lean decides how each is formatted.
+
 ## Working principles
 
 - HERMES is outcome-oriented: plan and steer by the outcomes (deliverables), not by activity.

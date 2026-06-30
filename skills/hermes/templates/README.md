@@ -4,6 +4,8 @@ Markdown templates for every HERMES deliverable and checklist, converted from th
 
 To produce a deliverable, open the matching template here and consult [../references/deliverables.md](../references/deliverables.md) for what the document is for and [../references/tasks.md](../references/tasks.md) for who produces it and when.
 
+For a gitops workflow, use the lean profile (see [../SKILL.md](../SKILL.md)): drop the document-control header and the change-history table, and let git track version, author, and status.
+
 ## Documents (52)
 
 - [Acceptance report](acceptance-report.md)
